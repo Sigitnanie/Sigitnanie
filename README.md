@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gilang_166
 - 👀 I’m interested in start to learn
-- 🌱 I’m currently learning dev sams
-- 💞️ I’m looking to collaborate on everyone
+- 🌱 I’m currently learning 
 - 📫 How to reach me ...
 
 <!---
